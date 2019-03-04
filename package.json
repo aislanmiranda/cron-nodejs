@@ -1,0 +1,19 @@
+{
+  "name": "cron-backend-node",
+  "version": "1.0.0",
+  "description": "Exemplo de cron para trabalhar no backend com NodeJs",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
