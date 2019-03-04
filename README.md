@@ -12,3 +12,5 @@ Requisitos:
 > yarn add cron
 3. Por fim dentro da pasta do projeto, execute:
 > npm start ou node server.js
+
+Será executado 4x um determinado job conforme valor definido na variável "i".
